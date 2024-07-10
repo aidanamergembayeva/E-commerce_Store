@@ -23,7 +23,12 @@ This is a full-featured e-commerce store built with React and Node.js. It includ
 - Node.js
 - MongoDB
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/e-commerce-store.git
+### Setup Instructions:
+
+1. Clone the repository: git clone https://github.com/yourusername/ecommerce-store.git
+2. Navigate to the project directory: cd ecommerce-store
+3. Install dependencies: npm install
+4. Set up environment variables in a .env file (example provided in .env.example).
+5. Run the development server: npm run dev
+6. Open your browser and navigate to http://localhost:3000
+
